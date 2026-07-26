@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 200" width="460" height="200">
+
+<style>
+  .panel-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+  .bar { fill: #161b22; }
+  .dot { opacity: 0.9; }
+  .key { font-family: 'SFMono-Regular', Consolas, monospace; font-size: 13px; fill: #58a6ff; opacity: 0; }
+  .val { font-family: 'SFMono-Regular', Consolas, monospace; font-size: 13px; fill: #c9d1d9; opacity: 0; }
+  .title { font-family: 'SFMono-Regular', Consolas, monospace; font-size: 12px; fill: #8b949e; }
+</style>
+<rect class="panel-bg" x="1" y="1" width="458" height="198" rx="8"/>
+<rect class="bar" x="1" y="1" width="458" height="28" rx="8"/>
+<rect x="1" y="21" width="458" height="8" fill="#161b22"/>
+<circle class="dot" cx="18" cy="15" r="5" fill="#ff5f56"/>
+<circle class="dot" cx="34" cy="15" r="5" fill="#ffbd2e"/>
+<circle class="dot" cx="50" cy="15" r="5" fill="#27c93f"/>
+<text class="title" x="230.0" y="19" text-anchor="middle">sysinfo.sh</text>
+
+<text class="key" x="20" y="46">role:<animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.15s" fill="freeze"/></text>
+<text class="val" x="90" y="46">Backend Engineer<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.2s" fill="freeze"/></text>
+<text class="key" x="20" y="72">stack:<animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.15s" fill="freeze"/></text>
+<text class="val" x="90" y="72">Java 21 · Spring Boot · PostgreSQL · AWS<animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.2s" fill="freeze"/></text>
+<text class="key" x="20" y="98">focus:<animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.15s" fill="freeze"/></text>
+<text class="val" x="90" y="98">Microservices, auth systems, AI-integrated backends<animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.2s" fill="freeze"/></text>
+<text class="key" x="20" y="124">now:<animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.15s" fill="freeze"/></text>
+<text class="val" x="90" y="124">Job searching — Java backend roles, Noida/Delhi NCR<animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.2s" fill="freeze"/></text>
+</svg>
