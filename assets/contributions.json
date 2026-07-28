@@ -1829,9 +1829,14 @@
       "date": "2026-07-27",
       "level": 4,
       "label": ""
+    },
+    {
+      "date": "2026-07-28",
+      "level": 0,
+      "label": ""
     }
   ],
-  "current_streak": 2,
+  "current_streak": 0,
   "longest_streak": 3,
   "busiest_day": "Thu"
 }
