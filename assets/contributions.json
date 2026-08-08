@@ -1847,11 +1847,16 @@
     },
     {
       "date": "2026-08-07",
+      "level": 1,
+      "label": ""
+    },
+    {
+      "date": "2026-08-08",
       "level": 0,
       "label": ""
     }
   ],
   "current_streak": 0,
-  "longest_streak": 12,
+  "longest_streak": 13,
   "busiest_day": "Thu"
 }
