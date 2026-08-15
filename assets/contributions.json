@@ -1849,9 +1849,14 @@
       "date": "2026-08-14",
       "level": 2,
       "label": ""
+    },
+    {
+      "date": "2026-08-15",
+      "level": 0,
+      "label": ""
     }
   ],
-  "current_streak": 20,
+  "current_streak": 0,
   "longest_streak": 20,
   "busiest_day": "Thu"
 }
