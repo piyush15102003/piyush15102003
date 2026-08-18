@@ -373,7 +373,7 @@
 <rect class="cell" x="744" y="90" width="11" height="11" rx="2" fill="#1c7ed6"><animate attributeName="opacity" from="0" to="1" begin="0.612s" dur="0.25s" fill="freeze"/></rect>
 <rect class="cell" x="744" y="104" width="11" height="11" rx="2" fill="#16537e"><animate attributeName="opacity" from="0" to="1" begin="0.612s" dur="0.25s" fill="freeze"/></rect>
 <rect class="cell" x="758" y="20" width="11" height="11" rx="2" fill="#16537e"><animate attributeName="opacity" from="0" to="1" begin="0.624s" dur="0.25s" fill="freeze"/></rect>
-<rect class="cell" x="758" y="34" width="11" height="11" rx="2" fill="#1a1a2e"><animate attributeName="opacity" from="0" to="1" begin="0.624s" dur="0.25s" fill="freeze"/></rect>
+<rect class="cell" x="758" y="34" width="11" height="11" rx="2" fill="#16537e"><animate attributeName="opacity" from="0" to="1" begin="0.624s" dur="0.25s" fill="freeze"/></rect>
 <rect class="cell" x="758" y="48" width="11" height="11" rx="2" fill="#1a1a2e"><animate attributeName="opacity" from="0" to="1" begin="0.624s" dur="0.25s" fill="freeze"/></rect>
 <rect class="cell" x="758" y="62" width="11" height="11" rx="2" fill="#1a1a2e"><animate attributeName="opacity" from="0" to="1" begin="0.624s" dur="0.25s" fill="freeze"/></rect>
 <rect class="cell" x="758" y="76" width="11" height="11" rx="2" fill="#1a1a2e"><animate attributeName="opacity" from="0" to="1" begin="0.624s" dur="0.25s" fill="freeze"/></rect>
@@ -386,5 +386,5 @@
 <rect x="106" y="131" width="11" height="11" rx="2" fill="#4dabf7"/>
 <rect x="120" y="131" width="11" height="11" rx="2" fill="#a5d8ff"/>
 <text class="lbl" x="138" y="140">More</text>
-<text class="title" x="30" y="162">0d current streak   ·   22d longest streak   ·   busiest: Tue</text>
+<text class="title" x="30" y="162">0d current streak   ·   23d longest streak   ·   busiest: Mon</text>
 </svg>
