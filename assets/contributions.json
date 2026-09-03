@@ -1647,7 +1647,7 @@
     },
     {
       "date": "2026-07-26",
-      "level": 3,
+      "level": 2,
       "label": ""
     },
     {
@@ -1732,7 +1732,7 @@
     },
     {
       "date": "2026-08-12",
-      "level": 4,
+      "level": 3,
       "label": ""
     },
     {
@@ -1827,7 +1827,7 @@
     },
     {
       "date": "2026-08-31",
-      "level": 3,
+      "level": 2,
       "label": ""
     },
     {
@@ -1837,11 +1837,16 @@
     },
     {
       "date": "2026-09-02",
-      "level": 0,
+      "level": 2,
+      "label": ""
+    },
+    {
+      "date": "2026-09-03",
+      "level": 4,
       "label": ""
     }
   ],
-  "current_streak": 0,
-  "longest_streak": 38,
+  "current_streak": 40,
+  "longest_streak": 40,
   "busiest_day": "Tue"
 }
