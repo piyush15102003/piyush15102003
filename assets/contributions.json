@@ -387,7 +387,7 @@
     },
     {
       "date": "2025-11-16",
-      "level": 2,
+      "level": 1,
       "label": ""
     },
     {
@@ -1287,7 +1287,7 @@
     },
     {
       "date": "2026-05-15",
-      "level": 2,
+      "level": 1,
       "label": ""
     },
     {
@@ -1412,7 +1412,7 @@
     },
     {
       "date": "2026-06-09",
-      "level": 2,
+      "level": 1,
       "label": ""
     },
     {
@@ -1632,7 +1632,7 @@
     },
     {
       "date": "2026-07-23",
-      "level": 3,
+      "level": 2,
       "label": ""
     },
     {
@@ -1652,7 +1652,7 @@
     },
     {
       "date": "2026-07-27",
-      "level": 3,
+      "level": 2,
       "label": ""
     },
     {
@@ -1737,7 +1737,7 @@
     },
     {
       "date": "2026-08-13",
-      "level": 4,
+      "level": 3,
       "label": ""
     },
     {
@@ -1844,9 +1844,14 @@
       "date": "2026-09-03",
       "level": 4,
       "label": ""
+    },
+    {
+      "date": "2026-09-04",
+      "level": 1,
+      "label": ""
     }
   ],
-  "current_streak": 40,
-  "longest_streak": 40,
+  "current_streak": 41,
+  "longest_streak": 41,
   "busiest_day": "Tue"
 }
