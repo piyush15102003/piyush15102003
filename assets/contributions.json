@@ -1842,11 +1842,16 @@
     },
     {
       "date": "2026-09-24",
-      "level": 1,
+      "level": 2,
+      "label": ""
+    },
+    {
+      "date": "2026-09-25",
+      "level": 0,
       "label": ""
     }
   ],
-  "current_streak": 61,
+  "current_streak": 0,
   "longest_streak": 61,
   "busiest_day": "Tue"
 }
