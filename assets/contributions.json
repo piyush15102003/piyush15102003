@@ -1824,9 +1824,14 @@
       "date": "2026-10-04",
       "level": 1,
       "label": ""
+    },
+    {
+      "date": "2026-10-05",
+      "level": 0,
+      "label": ""
     }
   ],
-  "current_streak": 71,
+  "current_streak": 0,
   "longest_streak": 71,
   "busiest_day": "Tue"
 }
